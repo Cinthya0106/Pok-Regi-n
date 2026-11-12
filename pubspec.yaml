@@ -1,0 +1,25 @@
+name: pokeregion
+description: "PokéRegión — proyecto final de Desarrollo Móvil. PokéAPI + API Colombia."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2               # llamadas a PokéAPI y API Colombia
+  shared_preferences: ^2.3.2 # guardar "Mi Equipo" en el celular
+  google_fonts: ^6.2.1       # Press Start 2P y VT323 (letras pixel)
+  audioplayers: ^6.1.0       # reproducir el grito del Pokémon
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
