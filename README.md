@@ -1,7 +1,7 @@
 # PokéRegión 🎮
 
 ## 📲 [Descargar la app (APK)](https://github.com/Cinthya0106/Pok-Regi-n/releases/tag/v1.0)
-## 📄 [Documento del proyecto y manual de usuario (PDF)](PokéRegión–Documentodelproyecto(PDF pixel).pdf)
+## 📄 [Documento del proyecto y manual de usuario (PDF)](https://github.com/Cinthya0106/Pok-Regi-n/blob/master/Pok%C3%A9Regi%C3%B3n%20%E2%80%93%20Documento%20del%20proyecto%20%28PDF%20pixel%29.pdf)
 
 App móvil en Flutter con estilo **pixel art retro** que une **PokéAPI** y **API Colombia**:
 escribes tu peso y tu altura, la app te asigna un Pokémon de tamaño parecido y, según su tipo,
