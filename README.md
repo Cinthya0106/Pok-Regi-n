@@ -63,3 +63,6 @@ assets/images/                # logo.png, equipo_vacio.png (imágenes de Assets)
 - Datos e imágenes: [PokéAPI](https://pokeapi.co) — Pokémon © Nintendo / Game Freak.
 - Datos de Colombia: [API Colombia](https://api-colombia.com).
 - Letras: Press Start 2P y VT323 (Google Fonts).
+- Zharick Peña
+- Sonia Sonza
+- Cinthya Kuper
